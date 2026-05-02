@@ -204,7 +204,7 @@ SHAP was used to interpret the model’s predictions.
 
 ### SHAP Feature Importance
 
-![SHAP Feature Importance](images/SHAP%20Feature%20importance.png)
+![SHAP Feature Importance](images/SHAP%20Feature%20Importance.png)
 
 The SHAP feature importance plot shows that the most influential fraud detection features include:
 
